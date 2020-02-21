@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    height: 100vh;
+    background-image: url(../obrazy/man-1.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    padding: 50vh 0 0 50px;
+    font-size: 20px;
+}
+
